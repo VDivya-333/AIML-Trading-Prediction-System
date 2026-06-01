@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+
+# Production builds
+frontend/build/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Python/ML Specific
+__pycache__/
+.venv/
+venv/
+
+# OS Specific
+.DS_Store
